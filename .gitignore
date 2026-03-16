@@ -25,6 +25,10 @@ venv/
 env/
 ENV/
 .venv
+.venv/
+
+# uv
+uv.lock
 
 # IDE
 .vscode/
@@ -47,6 +51,11 @@ temp_bundle/
 # Environment variables
 .env
 .env.local
+
+# Documentation (user managed)
+*.md
+!README.md
+!LICENSE
 
 # OS
 .DS_Store
