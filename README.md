@@ -2,6 +2,14 @@
 
 A unified Python SDK for deploying and interacting with serverless functions across multiple cloud providers.
 
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Architecture](https://img.shields.io/badge/architecture-Adapter%20Pattern-orange)](README.md)
+
+<div align="center">
+  <img src="assets/demo.gif" alt="Unified Serverless SDK Live Execution Demo" width="900px" style="border-radius: 8px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
+</div>
+
 ## Features
 
 - Deploy Python functions to multiple serverless providers
