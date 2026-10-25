@@ -9,9 +9,15 @@ Set Theme "Catppuccin Mocha"
 Set WindowBar Colorful
 Set LetterSpacing 0
 
-Type "cd /Users/shivam/Developer/Unified-Python-SDK && clear"
+Hide
+Type "cd ~/Developer && clear"
 Enter
-Sleep 500ms
+Sleep 400ms
+Show
+
+Type "cd Unified-Python-SDK"
+Enter
+Sleep 600ms
 
 Type "python3 final_test.py"
 Enter
